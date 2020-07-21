@@ -1,4 +1,4 @@
-const mongoose = reuiqre('mongoose');   // 몽구스 가져오기
+const mongoose = require('mongoose');   // 몽구스 가져오기
 
     /*
     <MongoDB Model&Schema>
